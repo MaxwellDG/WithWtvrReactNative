@@ -1,0 +1,1 @@
+// This will be for global props being passed around e.g. currentUser or settings 
